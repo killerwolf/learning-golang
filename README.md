@@ -1,7 +1,10 @@
 
 # Learning GOlang
 
+## install golang
 
+### With homebrew 
+https://golang.org/doc/install
 
 ## Resources
 
